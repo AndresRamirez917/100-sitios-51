@@ -6,6 +6,10 @@
   margin: 0 auto;
   text-align: center;
   width: 200px;
+  margin-bottom: 1rem;
+}
+#mainheader .navbar .navbar-flex ul {
+  margin-bottom: 2rem;
 }
 #mainheader .navbar .navbar-flex .button-1 {
   display: block;
